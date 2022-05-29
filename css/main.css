@@ -1,8 +1,16 @@
 body {
   background-color: midnightblue;
+  padding: 5em;
 }
 
 h1 {
+  color:antiquewhite;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
   color:antiquewhite;
   font-weight: bold;
 }
