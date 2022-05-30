@@ -53,3 +53,9 @@ div {
 .jumbotron-fluid {
   background-color: royalblue;
 }
+
+.startup {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
