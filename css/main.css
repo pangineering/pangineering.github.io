@@ -52,7 +52,9 @@ div {
 
 .jumbotron-fluid {
   /* background-color: royalblue; */
-  background-image: url('./img/logo/pan-a.jpg');
+  background: url(img/logo/pan-a.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 .startup {
@@ -67,5 +69,7 @@ div {
 
 .footer {
   /* background-color: royalblue; */
-  background-image: url('./img/logo/pan-a.jpg');
+  background: url(/img/logo/pan-a.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
 }
