@@ -67,6 +67,7 @@ div {
   background-attachment: fixed;
   background-position: bottom; */
   opacity: 0.8;
+  width: 100%;
 }
 
 .startup {
