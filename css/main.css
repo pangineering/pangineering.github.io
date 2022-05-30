@@ -35,3 +35,12 @@ h6 {
 p {
   color: aliceblue;
 }
+
+div {
+  padding: auto;
+}
+
+.email {
+  font-weight: bold;
+  color: chartreuse;
+}
