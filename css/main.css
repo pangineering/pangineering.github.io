@@ -44,3 +44,7 @@ div {
   font-weight: bold;
   color: chartreuse;
 }
+
+.lead {
+  color: black !important;
+}
