@@ -64,3 +64,8 @@ div {
 .card-title {
   color: navy;
 }
+
+.footer {
+  /* background-color: royalblue; */
+  background-image: url('./img/logo/pan-a.jpg');
+}
