@@ -48,3 +48,7 @@ div {
 .lead {
   color: black !important;
 }
+
+.jumbotron-fluid {
+  background-color: royalblue;
+}
