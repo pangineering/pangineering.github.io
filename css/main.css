@@ -70,10 +70,6 @@ div {
 }
 
 .startup {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  flex-wrap: wrap;
 }
 
 .card-title {
