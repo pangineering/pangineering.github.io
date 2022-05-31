@@ -74,9 +74,13 @@ div {
 }
 
 .startup {
+  padding: 1.5rem;
 }
 
 .card-title {
   color: navy;
 }
 
+.contact {
+  padding: 1.5rem; 
+}
