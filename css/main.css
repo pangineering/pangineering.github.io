@@ -20,6 +20,7 @@ h1 {
 h2 {
   font-weight: bold;
   color: aliceblue;
+  text-align: center;
 }
 
 h3 {
@@ -183,3 +184,11 @@ i {
 
 .nav-item:nth-child(4) {
   transition-delay: 0.4s; }
+
+.list-group-item {
+  color: #373737;
+}
+
+.lead {
+  text-align: center;
+}
